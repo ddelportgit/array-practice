@@ -8,7 +8,7 @@ const products = [
 
 // forEach() method
 
-products.forEach((name) => console.log(name));
+products.forEach((product) => console.log(product.name));
 
 // map() method
 
