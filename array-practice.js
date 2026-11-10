@@ -20,7 +20,7 @@ const inStock = products.filter((product) => product.inStock);
 
 // filter() method #2
 
-const lessthan2000 = products.filter((product) => product.price < 2000);
+const lessThan2000 = products.filter((product) => product.price < 2000);
 
 // find() method
 
